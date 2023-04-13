@@ -12,7 +12,7 @@ def run_command(command):
 
 # Create GUI
 root = tk.Tk()
-root.title("Linux-like Terminal")
+root.title("WinTerm")
 root.configure(bg="black")
 
 # Create input area
